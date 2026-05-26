@@ -1,0 +1,30 @@
+{
+  "name": "Default AI Output Rubric",
+  "criteria": [
+    {
+      "key": "accuracy",
+      "label": "Accuracy",
+      "max_score": 5
+    },
+    {
+      "key": "completeness",
+      "label": "Completeness",
+      "max_score": 5
+    },
+    {
+      "key": "usefulness",
+      "label": "Usefulness",
+      "max_score": 5
+    },
+    {
+      "key": "risk",
+      "label": "Risk Control",
+      "max_score": 5
+    },
+    {
+      "key": "human_review",
+      "label": "Human Review Readiness",
+      "max_score": 5
+    }
+  ]
+}
